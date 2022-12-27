@@ -52,6 +52,9 @@ nav ul li a:hover{
 }
 #data_container{
     display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
     
 }
 .card{
@@ -64,7 +67,7 @@ nav ul li a:hover{
     align-items: center;
     justify-content: center;
     margin: 20px;
-    border-radius: 10%;
+    border-radius: 2.5%;
 }
 .card img{
     width: 100px;
@@ -78,4 +81,10 @@ nav ul li a:hover{
 .card p{
     margin: 25px;
     font-size: larger;
+}
+#search{
+    display: flex;
+    justify-content: center;
+    
+
 }

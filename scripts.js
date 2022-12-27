@@ -20,3 +20,15 @@ function displayData(data){
    }
 }
 getData()
+
+function seachName(){
+     const form= document.getElementById("searchForm")
+     const input= document.getElementById("name").value
+
+
+     form.addEventListener("submit",(e)=>{
+        e.preventDefault()
+
+        fetch(`http://localhost:3000/messages?name=${input}`)
+     })
+    }
