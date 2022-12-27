@@ -1,0 +1,41 @@
+{
+    "messages":[
+        {
+            "id":1,
+            "name":"john doe",
+            "image":"https://images.pexels.com/photos/1251861/pexels-photo-1251861.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "message":"i liked the phase"
+
+        },
+        {
+            "id":2,
+            "name":"mark paul",
+            "image":"https://images.pexels.com/photos/1007066/pexels-photo-1007066.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "message":"the phase was kinda intresting"
+
+        },
+        {
+            "id":3,
+            "name":"timothy",
+            "image":"https://images.pexels.com/photos/2826131/pexels-photo-2826131.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "message":"the mentors were great"
+
+        },
+        {
+            "id":4,
+            "name":"elsie murugi",
+            "image":"https://www.instagram.com/p/Cev9qm4sUNYSTD3UwMdlZn82a8PZydeC43Wua80/",
+            "message":"i understood everything"
+
+        },
+        {
+            "id":5,
+            "name":"junior",
+            "image":"https://images.pexels.com/photos/4143800/pexels-photo-4143800.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "message":"everything was explained well"
+
+        }
+        
+
+    ]
+}
